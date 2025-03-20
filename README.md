@@ -1,1 +1,2 @@
 # IISMA-sentiment-analysis
+This study analyzes public sentiment regarding the potential discontinuation of the IISMA program using machine learning models, including Support Vector Machine (SVM), Random Forest Classifier (RFC), and XGBoost Classifier. The results show that SVM and RFC are the most effective models, achieving 85.44% accuracy, with sentiment analysis revealing that the majority of public opinion is positive, suggesting that the program is seen as non-urgent and not a national priority.
